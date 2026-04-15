@@ -20,6 +20,13 @@ import java.util.regex.Pattern;
 public class HW5_5_Sulpizio {
 
     /**
+     * Default constructor for the HW5_5_Sulpizio class.
+     */
+    public HW5_5_Sulpizio() {
+        // Default constructor
+    }
+
+    /**
      * The Arabic alphabet used for Caesar cipher shifting.
      */
     private static final String ARABIC_ALPHABET = "ابتثجحخدذرزسشصضطظعغفقكلمنهوي";
